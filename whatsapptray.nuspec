@@ -3,15 +3,15 @@
   <metadata>
     <id>whatsapptray</id>
     <version>1.9.0</version>
-    <packageSourceUrl>https://github.com/D4koon/WhatsappTray/</packageSourceUrl>
+    <packageSourceUrl>https://github.com/celynw/choco-whatsapptray</packageSourceUrl>
     <owners>kelzebub</owners>
     <title>whatsapptray (Install)</title>
     <authors>D4koon</authors>
-    <projectUrl>https://github.com/D4koon/WhatsappTray/</projectUrl>
+    <projectUrl>https://github.com/D4koon/WhatsappTray</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/D4koon/WhatsappTray/master/WhatsappTray/WhatsappTray.ico</iconUrl>
     <licenseUrl>http://www.gnu.org/licenses/gpl-3.0.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <projectSourceUrl>https://github.com/D4koon/WhatsappTray/</projectSourceUrl>
+    <projectSourceUrl>https://github.com/D4koon/WhatsappTray</projectSourceUrl>
     <tags>messenger chat windows tray minimize</tags>
     <summary>Extension for the Whatsapp Desktop Client, that enables minimize-to-tray and close-to-tray functionality.</summary>
     <description>
